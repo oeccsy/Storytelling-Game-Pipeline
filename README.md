@@ -65,3 +65,4 @@ vr기기, 모바일 기기의 기울기, 흔들기 등의 동작이 반영됩니
   - pyinstaller
     - 해당 프로젝트에서는 pyinstaller에 대한 코드 수정사항이 없습니다.
     - https://pyinstaller.org/en/stable/license.html
+    - https://raw.githubusercontent.com/pyinstaller/pyinstaller/develop/COPYING.txt
