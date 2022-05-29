@@ -52,8 +52,11 @@ vr기기, 모바일 기기의 기울기, 흔들기 등의 동작이 반영됩니
 
 ![projectgif](https://user-images.githubusercontent.com/77562357/170865891-cef59048-b572-45d7-853b-86f232d6d3f8.gif)
 
+- 결과물은 [여기](https://github.com/oeccsy/Storytelling-Game-Pipeline/releases)에서 확인하실 수 있습니다.
 
-### text 분류는 실제 의미와는 다르며 인게임에서의 유저 경험에 기반합니다. 
+- 발생 이벤트는 키보드 `T`를 누르면 텍스트로 확인 가능합니다. 
+
+- ### text 분류는 실제 의미와는 다르며 인게임에서의 유저 경험에 기반합니다. 
 
 
 
