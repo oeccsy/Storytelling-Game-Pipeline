@@ -1,4 +1,4 @@
-# Storytelling-Game-Pipeline
+# Storyline-Game-Pipeline
 
 ## 기획의도  
   
